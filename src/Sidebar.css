@@ -1,0 +1,21 @@
+.sidebar{
+    background-color: rgb(51, 58, 55);
+    padding: 20px;
+    width: 88%;
+}
+
+.file
+{
+    cursor: pointer;
+    padding: 2px;
+
+}
+.file:hover{
+    color: springgreen;
+}
+li {
+    list-style-type: none;
+  }
+.files{
+    padding: 5px;
+}

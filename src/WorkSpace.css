@@ -1,0 +1,67 @@
+.workspace{
+    background-color: rgb(44, 44, 44);
+    width: 100%;
+   
+}
+.header{
+    color:springgreen;
+    height: 5%;
+    /* padding: 5px; */
+}
+.content{
+    color: rgb(0, 0, 0);
+    background-color: white;
+    /* width: %; */
+    overflow-y: scroll;
+    height: 70%;
+
+    max-height: 70vh ;
+}
+
+.tabs{
+    width: 99%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    background-color: rgb(0, 0, 0);
+    /* padding: ; */
+}
+.tab{
+    padding: 0 15px;
+    display: flex;
+}
+
+.fa.fa-times{
+    padding: 5px;
+    cursor: pointer;
+    
+}
+.fa.fa-times:hover{
+    color: red;
+}
+
+.navheader{        
+    margin-top: 15px;     
+    font-size: 18px;       
+    color :black !important;        
+    background-color: #b3beca!important        
+  }     
+  .btnspace    
+  {    
+  margin: 15px;    
+  } 
+
+.parent:hover > .fa.fa-times{
+
+    display: block !important;
+    color: red;
+
+}
+.parent{
+    display: flex;
+
+}
+.tab:hover{
+    color: rgb(145, 143, 143);
+}
