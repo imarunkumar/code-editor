@@ -1,0 +1,19 @@
+.area{
+    background-color: rgb(51, 58, 55);
+    color: white;
+    display:block;
+    height: 98.7vh;
+    width: 25%;
+    padding: 5px;
+    border-right: 2px solid rgb(59, 161, 117) ;
+
+}
+
+.App{
+    display: flex;
+    
+}
+
+h5{
+    margin-block-end: -12px;
+}

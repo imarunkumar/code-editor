@@ -1,0 +1,23 @@
+.terminal{
+    background-color: rgb(4, 202, 103);
+    padding: 16px;
+    height: 20.5%;
+    /* margin-top: 60vh; */
+}
+input[type=checkbox] {
+    transform: scale(1.5);
+    -ms-transform: scale(1.5);
+    -webkit-transform: scale(1.5);
+    /* padding: 10px; */
+}
+.checkbox{
+font-weight: bold;
+}
+.fa.fa-chevron-down{
+padding: 10px;
+cursor: pointer;
+}
+.fa.fa-chevron-up{
+    padding: 10px;
+    cursor: pointer;
+    }
